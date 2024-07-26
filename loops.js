@@ -20,3 +20,4 @@ while(count < cars.length){
 for(let count = 0; count < cars.length; count++){
         //console.log(cars[count])
 }
+
